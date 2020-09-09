@@ -1,0 +1,46 @@
+body {
+	background-color: darkred;
+	color: gold;
+}
+
+h1 {
+	background-color: black;
+
+	color: mintcream;
+
+	font-family: verdana;
+}
+
+h2 {
+	color: white;
+}
+
+h4 {
+	color: white;
+}
+
+a {
+	color: white;
+}
+
+.bike {
+	position: relative;
+	color: black;
+	font-family: Impact;
+	text-shadow: 2px 2px yellow;
+
+}
+
+.bottom {
+	position: absolute;
+	bottom: 8px;
+	transform: translate(35%,-50%)
+}
+
+.notfun {
+	color: white;
+}
+
+.sections {
+	color: white;
+}
